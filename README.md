@@ -1,4 +1,4 @@
-  <img align="right" alt="Coding" width="400" src="![banner](https://user-images.githubusercontent.com/113771310/229291154-a146537a-18d1-4ed4-acc1-88ab7e86501e.png)
+  <img align="center" alt="Banner" src="![banner](https://user-images.githubusercontent.com/113771310/229291154-a146537a-18d1-4ed4-acc1-88ab7e86501e.png)
 ">
 
 <!--
