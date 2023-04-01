@@ -6,8 +6,8 @@ Hello! I'm a software engineer that enjoys the full-stack with a focus on front 
 
 ### My Github stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aiub98&show_icons=true&theme=dracula)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aiub98&show_icons=true&theme=dracula&hide_progress=true)](https://github.com/Aiub98/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aiub98&show_icons=true&theme=dracula) 
+
 
 
