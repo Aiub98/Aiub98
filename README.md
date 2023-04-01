@@ -1,4 +1,5 @@
-### Hey there 👋
+  <img align="right" alt="Coding" width="400" src="![banner](https://user-images.githubusercontent.com/113771310/229291154-a146537a-18d1-4ed4-acc1-88ab7e86501e.png)
+">
 
 <!--
 **Aiub98/Aiub98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
