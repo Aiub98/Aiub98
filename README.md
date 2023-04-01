@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 </p>
 -->
 
-  <img align="right" alt="Coding" width="400" src="add your link 
+  <img align="center" alt="Coding" width="400" src="add your link 
   here">
