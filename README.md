@@ -2,13 +2,14 @@
 
 ### About me:
 
-I'm a software engineer that enjoys the full-stack with a focus on front end development. Although I'm relatively new to the field, I'm passionate about creating engaging and user-friendly interfaces using modern technologies. I'm also eager to expand my skill set to include back end technologies like Ruby on Rails and SQL, and to collaborate with others to build applications. When I'm not coding, you can find me learning new programming languages or experimenting with open source projects.
+Motivated software engineer with a background in retail. Skilled in full-stack web development using modern technologies such as Bootstrap, Ruby on Rails, and PostgreSQL. I particularly enjoy front-end development and specialise in creating elegant and user-friendly interfaces using modern web technologies. Graduated from Le Wagon, a leading coding bootcamp, where I gained expertise in building responsive and scalable web applications. Passionate about problem-solving and learning new technologies.
+
 
 ### My Github stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aiub98&show_icons=true&theme=dracula&hide_progress=true)](https://github.com/Aiub98/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aiub98&show_icons=true&theme=dracula) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aiub98&show_icons=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aiub98&show_icons=true&theme=dracula&hide_progress=true)](https://github.com/Aiub98/github-readme-stats)
+
 
 
 
