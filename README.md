@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 </p>
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/Aiub98=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/Aiub98anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
