@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 </p>
 -->
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiAiub98anuraghazra&show_icons=true&theme=radical)
+
